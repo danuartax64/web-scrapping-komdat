@@ -7,7 +7,16 @@
 
 # 09011282025035
 
-# Proses ini menggunakan file html yang diunduh secara langsung dari website target yang ingin diambil datanya. Hal ini dilakukan karena response web pada situs aslinya menggunakan lazy loading sehingga membatasi pengambilan data karena website harus dinavigasi keseluruhan agar data yang diinginkan termuat. Menggunakan bantuan beberapa library yang bisa dilihat dibawah ini
+'''Proses ini menggunakan file html yang diunduh
+Secara langsung dari website target
+yang ingin diambil datanya.
+Hal ini dilakukan karena response web
+pada situs aslinya menggunakan lazy loading 
+Sehingga membatasi pengambilan data 
+Karena website harus dinavigasi keseluruhan
+agar data yang diinginkan termuat.
+Menggunakan bantuan beberapa library yang
+Bisa dilihat dibawah ini'''
 
 # In[1]:
 
