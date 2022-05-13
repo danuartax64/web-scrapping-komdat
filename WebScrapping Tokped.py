@@ -5,7 +5,7 @@
 
 # Muhammad Arya Danuarta
 
-# 09011282025035
+# NIM: 09011282025035
 
 '''Proses ini menggunakan file html yang diunduh
 Secara langsung dari website target
