@@ -120,6 +120,8 @@ print(compare)
 df_out = df[~((df < (Q1 - 1.5 * IQR)) |(df > (Q3 + 1.5 * IQR))).any(axis=1)]
 df_out.shape
 
+#opsional jika ingin memuat dataset baru yang sudah dinormalisasi outliernya ke sebuah file
+##df.to_csv(hasil_no_outlier, encoding='utf-8', index=False)
 
 # In[14]:
 
